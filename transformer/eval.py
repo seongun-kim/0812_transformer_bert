@@ -11,7 +11,7 @@ import _pickle
 
 import matplotlib.font_manager as fm
 
-os.environ["CUDA_VISIBLE_DEVICES"] = "7"
+os.environ["CUDA_VISIBLE_DEVICES"] = "1"
 
 dataset_dir = 'korean-english-news-v1'
 en_fname = 'korean-english-park.train.en'
